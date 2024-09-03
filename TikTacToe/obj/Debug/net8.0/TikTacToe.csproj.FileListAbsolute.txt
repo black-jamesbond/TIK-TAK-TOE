@@ -1,0 +1,14 @@
+C:\Users\kshed\source\repos\TikTacToe\bin\Debug\net8.0\TikTacToe.exe
+C:\Users\kshed\source\repos\TikTacToe\bin\Debug\net8.0\TikTacToe.deps.json
+C:\Users\kshed\source\repos\TikTacToe\bin\Debug\net8.0\TikTacToe.runtimeconfig.json
+C:\Users\kshed\source\repos\TikTacToe\bin\Debug\net8.0\TikTacToe.dll
+C:\Users\kshed\source\repos\TikTacToe\bin\Debug\net8.0\TikTacToe.pdb
+C:\Users\kshed\source\repos\TikTacToe\obj\Debug\net8.0\TikTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshed\source\repos\TikTacToe\obj\Debug\net8.0\TikTacToe.AssemblyInfoInputs.cache
+C:\Users\kshed\source\repos\TikTacToe\obj\Debug\net8.0\TikTacToe.AssemblyInfo.cs
+C:\Users\kshed\source\repos\TikTacToe\obj\Debug\net8.0\TikTacToe.csproj.CoreCompileInputs.cache
+C:\Users\kshed\source\repos\TikTacToe\obj\Debug\net8.0\TikTacToe.dll
+C:\Users\kshed\source\repos\TikTacToe\obj\Debug\net8.0\refint\TikTacToe.dll
+C:\Users\kshed\source\repos\TikTacToe\obj\Debug\net8.0\TikTacToe.pdb
+C:\Users\kshed\source\repos\TikTacToe\obj\Debug\net8.0\TikTacToe.genruntimeconfig.cache
+C:\Users\kshed\source\repos\TikTacToe\obj\Debug\net8.0\ref\TikTacToe.dll
